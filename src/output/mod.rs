@@ -9,3 +9,5 @@
 mod default;
 
 pub use default::BasicOutput;
+
+mod json_output;
